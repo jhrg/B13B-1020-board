@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "B13B-symbols")(type "KiCad")(uri "${KIPRJMOD}/B13B-symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "mynixies")(type "KiCad")(uri "/Users/jimg/src/Eagle-and-KiCAD-Nixie-Libs/mynixies.kicad_sym")(options "")(descr ""))
+  (lib (name "nixies-us")(type "KiCad")(uri "/Users/jimg/src/Eagle-and-KiCAD-Nixie-Libs/nixies-us.kicad_sym")(options "")(descr ""))
+)
